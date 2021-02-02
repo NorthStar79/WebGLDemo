@@ -1,2 +1,2 @@
 
-https://northstar79.github.io/MynetDemo/WebGLBuild/index.html
+https://northstar79.github.io/WebGLDemo/WebGLBuild/index.html
